@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <system.serviceModel>
+    <extensions>
+      <behaviorExtensions>
+        <add name="WsdlExtension" type="Shared.Components.Behaviours.WsdlExtension,Shared.Components.Behaviours.WsdlExtension, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fdf2be1e6e0fcb45"/>
+      </behaviorExtensions>
+    </extensions>
+  </system.serviceModel>
+</configuration>
